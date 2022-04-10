@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhDstudent working on machine learning in transportation, cyber-physical systems, and transportation safety.
+Hi! I am a PhD student working on machine learning in transportation, cyber-physical systems, and transportation safety.
 
 A data-driven personal website
 ======
