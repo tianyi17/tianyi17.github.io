@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning applications in transportation, cyber-physical systems, and transportation safety. -- feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning applications in transportation, cyber-physical systems, and transportation safety. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
 
-Prior to attending UMN, I received my bachelor degree in Civil Engineering from Iowa State University, where I was advised by Professor Sri Sritharan and Professor Kejin Wang for my undergraduate theses. I also hold one master degree from the University of Washington advised by Professor Yinhai Wang. 
+Before attending UMN, I received my bachelor's degree in Civil Engineering from Iowa State University, where I was advised by Professor Sri Sritharan and Professor Kejin Wang for my undergraduate theses. I also hold one master's degree from the University of Washington, advised by Professor Yinhai Wang. 
 
-<!-- I am a final-year Ph.D. candidate in Computational Science and Engineering under supervision of Professor David Simchi-Levi. I am affiliated with Laboratory for Information & Decision Systems and Center for Computational Science & Engineering at MIT. I hold two master's, one in EECS and one in Transportation both from MIT. 
- -->
 
-I have worked as intern/researcher for the following companies/agencies: Huawei Research Lab(US), Washington State Department of Transportation, and China Railway First Group. 
+I have worked as an intern/researcher for the following companies/agencies: Huawei Research Lab (US), Washington State Department of Transportation, and China Railway First Group. 
 
 <!-- You can reach me through my email address hqin at mit dot edu. Recently I am interested in sample complexity analysis for multi-stage stochastic systems, reinforcement learning in OM applications, analysis of process flexibility in the context of routing and resource allocation (e.g., cloud industry) -- feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
  -->
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -56,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
