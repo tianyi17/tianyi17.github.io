@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : Tianyi_Li17
 facebook:
   username               :
   app_id                 :
@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "Tianyi LI"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
+  bio              : "PhD student"
+  location         : "Minneapolos, MN, USA"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : #"http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "li001915@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,20 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "tianyi17"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "tianyitristan"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : "tianyi-tristan-li-5b59bbb5"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : "Tianyi_Li17"
   vine             :
   weibo            :
   xing             :
