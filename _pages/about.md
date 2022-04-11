@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under supervision of Professor Raphael Stern (https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning applications in transportation, cyber-physical systems, and transportation safety. -- feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning applications in transportation, cyber-physical systems, and transportation safety. -- feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
 
 Prior to attending UMN, I received my bachelor degree in Civil Engineering from Iowa State University, where I was advised by Professor Sri Sritharan and Professor Kejin Wang for my undergraduate theses. I also hold one master degree from the University of Washington advised by Professor Yinhai Wang. 
 
