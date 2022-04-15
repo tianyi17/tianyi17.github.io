@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+   - title: "Misc."
+    url: /portfolio/
+    
 #   - title: "Misc."
 #     url: /portfolio/
