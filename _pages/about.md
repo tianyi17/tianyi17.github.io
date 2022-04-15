@@ -12,7 +12,7 @@ Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under
 
 <!-- More specifically, I’m interested in Automation and Democratization of Graph Learning using various deep learning techniques. My recent work includes automation in 1) polishing/generation of graph structures, 2) generation of node/edge/subgraph representations, and 3) solution generation in the application level. Ultimately, I’d like to empower all users to benefit from their own graph structures, regardless of their level of expertise in the graph learning field. -->
 
-Before attending UMN, I received my bachelor's degree in Civil Engineering from Iowa State University, where I was advised by Professor Sri Sritharan and Professor Kejin Wang for my undergraduate theses. I also hold one master's degree from the University of Washington, advised by Professor Yinhai Wang. 
+Before attending UMN, I received my bachelor's degree in Civil Engineering from Iowa State University, where I was advised by Professor [Sri Sritharan](https://www.engineering.iastate.edu/people/profile/sri/) and Professor [Kejin Wang](https://www.engineering.iastate.edu/people/profile/kejinw/) for my undergraduate theses. I also hold one master's degree from the University of Washington, advised by Professor [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
 
 
 I have worked as an intern/researcher for the following companies/agencies: Huawei Research Lab (US), Washington State Department of Transportation, and China Railway First Group. 
