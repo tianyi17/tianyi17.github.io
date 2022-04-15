@@ -11,9 +11,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyi LI"
+title                    : "Tianyi Li"
 title_separator          : "-"
-name                     : &name "Tianyi LI"
+name                     : &name "Tianyi Li"
 description              : &description "Postdoc in Political Science"
 url                      : https://tianyi17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyi LI 李天一"
+  name             : "Tianyi Li 李天一"
   avatar           : "profile.png"
   bio              : "PhD student"
   location         : "Minneapolos, MN, USA"
