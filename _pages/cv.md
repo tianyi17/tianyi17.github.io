@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### Detailed CV available upon request
+
 Education
 ======
 * Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 
@@ -35,7 +37,7 @@ Work experience
   
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -55,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
