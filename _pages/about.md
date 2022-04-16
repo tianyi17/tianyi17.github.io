@@ -9,7 +9,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning applications in transportation, cyber-physical systems, and transportation safety. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+
+Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning in transportation, cyber-physical systems, and transportation safety. My research leverages data and computation (particularly deep learning) to apply them to traditional transportation engineering challenges and to understand and design future cities. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
 
 <!-- More specifically, I’m interested in Automation and Democratization of Graph Learning using various deep learning techniques. My recent work includes automation in 1) polishing/generation of graph structures, 2) generation of node/edge/subgraph representations, and 3) solution generation in the application level. Ultimately, I’d like to empower all users to benefit from their own graph structures, regardless of their level of expertise in the graph learning field. -->
 
