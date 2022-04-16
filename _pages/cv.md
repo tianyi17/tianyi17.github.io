@@ -23,7 +23,7 @@ Work experience
   * Worked on applied deep Learning in transportation Dr. Guo-Jun Qi
   * Supervisor: Dr. Guo-Jun Qi
 
-* Summer 2019: Internship
+* Summer 2019: Research Intern
   * Washington State Department of Transportation
   * Collected and monitored daily tolling transaction data from the facility reports (e.g., I-405, SR520, and SR167).
       Conducted performance evaluations and supported operational improvement projects
