@@ -18,7 +18,7 @@ author_profile: true
 * CEGE 3201 Transportation Engineering, UMN, Spring 2021 
 	* Undergraduate-level
 	* Traffic Engineering Topic: Geometric factors, traffic flow theory
-        * ITS Topic: Autonomated vehicles and intelligent transportation systems
+	* ITS Topic: Autonomated vehicles and intelligent transportation systems
 
 * CEE 410 Traffic Engineering Fundamentals, UW, Spring 2019 
 	* Graduate- and undergraduate-level
