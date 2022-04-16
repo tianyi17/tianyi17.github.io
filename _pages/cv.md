@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Detailed CV available upon request"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-### Detailed CV available upon request
 
 Education
 ======
