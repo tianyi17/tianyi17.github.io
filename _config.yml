@@ -77,13 +77,11 @@ social:
     - "https://instagram.com/tianyitristan/"
     - "https://www.linkedin.com/in/tianyi-tristan-li-5b59bbb5/"
 
-# Analytics
-analytics:               G-3E74C49H73
-  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:                  G-3E74C49H73
-    tracking_id          : 
-  goatcounter:
-    code		 :          
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-3E74C49H73"
+    anonymize_ip: false # default        
 
 
 # Site Author
