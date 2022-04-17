@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyi Li 李天一"
-  avatar           : "profile.png"
+  avatar           : "tianyi_nba.png"
   bio              : "PhD student"
   location         : "Minneapolos, MN, USA"
   employer         :
@@ -103,8 +103,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tianyi17"
-  gitlab           : #"jayrobwilliams"
+  github           : 
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        : "tianyitristan"
