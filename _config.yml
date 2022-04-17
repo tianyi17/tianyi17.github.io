@@ -78,12 +78,12 @@ social:
     - "https://www.linkedin.com/in/tianyi-tristan-li-5b59bbb5/"
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
+analytics:               G-3E74C49H73
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : 
+    code		 :           G-3E74C49H73
 
 
 # Site Author
@@ -94,8 +94,8 @@ author:
   location         : "Minneapolos, MN, USA"
   employer         :
   pubmed           :
-  orcid            : #"http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : 
+  googlescholar    : #
   email            : "li001915@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,7 @@ author:
   linkedin         : "tianyi-tristan-li-5b59bbb5"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "Tianyi_Li17"
