@@ -79,11 +79,11 @@ social:
 
 # Analytics
 analytics:               G-3E74C49H73
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:
+  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
+  google:                  G-3E74C49H73
     tracking_id          : 
   goatcounter:
-    code		 :           G-3E74C49H73
+    code		 :          
 
 
 # Site Author
