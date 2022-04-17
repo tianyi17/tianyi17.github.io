@@ -73,7 +73,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/Tianyi_Li17"
+    - "https://instagram.com/tianyitristan/"
+    - "https://www.linkedin.com/in/tianyi-tristan-li-5b59bbb5/"
 
 # Analytics
 analytics:
