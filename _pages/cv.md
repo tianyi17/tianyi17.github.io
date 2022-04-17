@@ -31,10 +31,16 @@ Work experience
   * Supervisor: Sara Myers
 
 * Summer 2017: Internship
- * China Railway First Group
+  * China Railway First Group
 
-  
-
+* Honors & Awards
+  * Dwight David Eisenhower Transportation Fellowship (Fall, 2022, [UMN News](https://cse.umn.edu/cege/news/li-receives-eisenhower-transportation-fellowship-applying-data-science-improve-pedestrian))
+  * Hsiao Shaw-Lundquist Fellowships (Spring, 2021, [UMN News](https://cse.umn.edu/cege/news/four-cege-students-china-connections-receive-hsiao-shaw-lundquist-fellowships))
+  * 2018 Mt. Rainier Scholarship (Autumn 2018, the first recipient in Washington State, [UW News](https://www.ce.washington.edu/news/article/2018-12-11/awards-accolades))
+  * Midwest Transportation Center (MTC) Undergraduate Research Award (Spring, 2016)
+  * Dean Farnsworth Scholarship in Civil Engineering (Spring, 2016)
+  * Dean’s List (ISU)
+  * Ira B. Shinkle’s Scholarship (Fall, 2015)
 
 <!-- Publications
 ======
