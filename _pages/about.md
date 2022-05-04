@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). You can reach me through my email address li001915 at umn dot edu. I am working on machine learning in transportation, cyber-physical systems, and transportation safety. My research leverages data and computation (particularly deep learning) to apply them to traditional transportation engineering challenges and to understand and design future cities. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern) at the University of Minnesota(UMN). You can reach me through my email address li001915 at umn dot edu. Specifically, I am working on topics that include machine learning in transportation, Transportation-cyber-physical systems(T-CPS), and transportation safety. My research leverages data and computation (particularly deep learning) to apply them to traditional transportation engineering challenges and to understand and design future cities. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
 
-<!-- More specifically, I’m interested in Automation and Democratization of Graph Learning using various deep learning techniques. My recent work includes automation in 1) polishing/generation of graph structures, 2) generation of node/edge/subgraph representations, and 3) solution generation in the application level. Ultimately, I’d like to empower all users to benefit from their own graph structures, regardless of their level of expertise in the graph learning field. -->
+
 
 Before attending UMN, I received my bachelor's degree in Civil Engineering from Iowa State University, where I was advised by Professor [Sri Sritharan](https://www.engineering.iastate.edu/people/profile/sri/) and Professor [Kejin Wang](https://www.engineering.iastate.edu/people/profile/kejinw/) for my undergraduate theses. I also hold one master's degree from the University of Washington, advised by Professor [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
 
@@ -20,7 +20,7 @@ Before attending UMN, I received my bachelor's degree in Civil Engineering from 
 I have worked as an intern/researcher for the following companies/agencies: Huawei Research Lab (US), Washington State Department of Transportation, and China Railway First Group. 
 
 
-<!-- You can reach me through my email address hqin at mit dot edu. Recently I am interested in sample complexity analysis for multi-stage stochastic systems, reinforcement learning in OM applications, analysis of process flexibility in the context of routing and resource allocation (e.g., cloud industry) -- feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+
  -->
 <!-- A data-driven personal website
 ======
