@@ -28,7 +28,7 @@ Work experience
   * Washington State Department of Transportation
   * Collected and monitored daily tolling transaction data from the facility reports (e.g., I-405, SR520, and SR167).
       Conducted performance evaluations and supported operational improvement projects
-  * Researched on tolling facilities, and congestion pricing with UW DSSG (Data Science for Social Good) teamts
+  * Researched on tolling facilities, and congestion pricing with UW DSSG (Data Science for Social Good) teams
   * Supervisor: Sara Myers
 
 * Summer 2017: Internship
