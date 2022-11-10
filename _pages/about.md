@@ -9,8 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-Hi! I am a second-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern) at the University of Minnesota (UMN). You can reach me through my email address li001915 at umn dot edu. Specifically, I am working on topics that include machine learning in transportation, Transportation-Cyber-Physical systems (T-CPS), and transportation safety. My research leverages data and computation (particularly deep learning) to apply them to traditional transportation engineering challenges and to understand and design future cities. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
+Hi! I am a third-year Ph.D. student in Intelligent Transportation Systems under the supervision of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern) at the University of Minnesota (UMN). You can reach me through my email address li001915 at umn dot edu. Specifically, I am working on topics that include machine learning in transportation, Transportation-Cyber-Physical systems (T-CPS),  sustainable urban mobility, and transportation-related safety. My research leverages data and computation (particularly deep learning) to apply them to traditional transportation engineering challenges and to understand and design future cities. Feel free to shoot me an email if you have ideas to discuss or projects to collaborate on.
 
 
 
