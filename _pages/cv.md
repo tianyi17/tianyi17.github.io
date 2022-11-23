@@ -39,7 +39,7 @@ Honors & Awards
 =====
   * NSF Travel Award - AI workshop (Fall, 2022)
   * Transportation Research Board (TRB) Student Travel Award from UMN (Fall, 2022)
-  * Dwight David Eisenhower Transportation Fellowship (Fall, 2022, [UMN News](https://cse.umn.edu/cege/news/li-receives-eisenhower-transportation-fellowship-applying-data-science-improve-pedestrian))
+  * Dwight David Eisenhower Transportation Fellowship (Fall, 2021, [UMN News](https://cse.umn.edu/cege/news/li-receives-eisenhower-transportation-fellowship-applying-data-science-improve-pedestrian))
   * Hsiao Shaw-Lundquist Fellowships (Spring, 2021, [UMN News](https://cse.umn.edu/cege/news/four-cege-students-china-connections-receive-hsiao-shaw-lundquist-fellowships))
   * 2018 Mt. Rainier Scholarship (Autumn 2018, the first recipient in Washington State, [UW News](https://www.ce.washington.edu/news/article/2018-12-11/awards-accolades))
   * Midwest Transportation Center (MTC) Undergraduate Research Award (Spring, 2016)
