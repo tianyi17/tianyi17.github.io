@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 
+* Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 2024
 * M.S. in Intelligent Transportation Systems, University of Washington, 2019
-* B.S in Civil Engineering, Iowa State University, 2017
+* B.S. in Civil Engineering, Iowa State University, 2017
 
 Work experience
 ======
