@@ -37,6 +37,7 @@ Work experience
 
 Honors & Awards
 =====
+  * 2022 ITS Minnesota Educational Scholarship - ITS Minnesota (Fall, 2022)
   * NSF Travel Award - AI workshop (Fall, 2022)
   * Transportation Research Board (TRB) Student Travel Award from UMN (Fall, 2022)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2021, [UMN News](https://cse.umn.edu/cege/news/li-receives-eisenhower-transportation-fellowship-applying-data-science-improve-pedestrian))
