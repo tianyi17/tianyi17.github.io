@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Summer 2020: Artificial Intelligence (Smart City) Research Intern
-  * Futurewei Technologies Research Lab (Seattle)
+  * Futurewei Technologies Research Lab (Huawei Research Lab Seattle)
   * Worked on applied deep Learning in transportation
   * Supervisor: Dr. Guo-Jun Qi
 
