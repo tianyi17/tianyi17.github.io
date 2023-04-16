@@ -18,4 +18,4 @@ Before attending UMN, I received my bachelor's degree in Civil Engineering from 
 
 I have worked as an intern/researcher for the following companies/agencies: Futurewei Technologies Research Lab (Seattle), Washington State Department of Transportation, and China Railway First Group. 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
