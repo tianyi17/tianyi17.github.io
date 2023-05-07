@@ -16,6 +16,7 @@ Education
 * Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 2024
 * M.S. in Intelligent Transportation Systems, University of Washington, 2019
 * B.S. in Civil Engineering, Iowa State University, 2017
+* Lanzhou No.1 High School, High School Diploma
 
 Work experience
 ======
@@ -39,7 +40,7 @@ Honors & Awards
 =====
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2022)
   * 2022 ITS Minnesota Educational Scholarship - ITS Minnesota (Fall, 2022)
-<!--   * NSF Travel Award - AI workshop (Fall, 2022) -->
+  * NSF Travel Award - AI workshop (Fall, 2022)
   * Transportation Research Board (TRB) Student Travel Award from UMN (Fall, 2022)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2021, [UMN News](https://cse.umn.edu/cege/news/li-receives-eisenhower-transportation-fellowship-applying-data-science-improve-pedestrian))
   * Hsiao Shaw-Lundquist Fellowships (Spring, 2021, [UMN News](https://cse.umn.edu/cege/news/four-cege-students-china-connections-receive-hsiao-shaw-lundquist-fellowships))
@@ -70,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
