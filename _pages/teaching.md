@@ -30,25 +30,25 @@ author_profile: true
 * Engineering Discovery Days, University of Washington, Spring 2019
 	* Topic: Transportation Data Science
 
-### Undergraduate student Supervision
+### Undergraduate Student Supervision
 * Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer 2023.
 	* Topic: Driving behavior modeling
 
 * Benjamin Rosenblad, Civil Engineering, University of Minnesota, Fall 2022.
-	* **Li, T.**, Rosenblad, B., Wang, S., Shang, M., & Stern, R. (2022). [Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicle](). *The IEEE Intelligent Vehicles Symposium* (IV 2023). Accepted
+	* **Li, T.**, **Rosenblad, B.**, Wang, S., Shang, M., & Stern, R. (2022). [Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicle](). *The IEEE Intelligent Vehicles Symposium* (IV 2023). Accepted
 
 * Matthew Fillippeli, Civil Engineering, University of Minnesota, Spring 2022.
-	* **Li, T.**, Shang, M., Wang, S., Filippelli, M.  & Stern, R. (2022, October). [Detecting Stealthy Cyberattacks on Automated Vehicles via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9922128). *In 2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), pp. 3632-3637, IEEE
+	* **Li, T.**, Shang, M., Wang, S., **Filippelli, M.**  & Stern, R. (2022, October). [Detecting Stealthy Cyberattacks on Automated Vehicles via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9922128). *In 2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), pp. 3632-3637, IEEE
 
 * Joshua Klavins, Civil Engineering, University of Minnesota, Spring 2021 - Summer 2022.
-	* **Li, T.**, Klavins, J., Xu, T., Davis, G., & Stern, R. (2022). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review
+	* **Li, T.**, **Klavins, J.**, Xu, T., Davis, G., & Stern, R. (2022). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review
 
 * John Cullom, Computer Science, University of Minnesota, Fall 2020 - Spring 2021.
-	* **Li, T.**, Cullom, J., & Stern, R. (2021, May). [Leveraging video data to better understand driver-pedestrian interactions in a smart city environment](https://dl.acm.org/doi/abs/10.1145/3459609.3460524). *In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems* (DI-CPS), pp. 6-11, ACM
+	* **Li, T.**, **Cullom, J.**, & Stern, R. (2021, May). [Leveraging video data to better understand driver-pedestrian interactions in a smart city environment](https://dl.acm.org/doi/abs/10.1145/3459609.3460524). *In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems* (DI-CPS), pp. 6-11, ACM
 	
 
 
 <br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
 
   
