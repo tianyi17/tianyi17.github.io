@@ -25,4 +25,9 @@ Research Interests
 
 I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry.
 
+***Quotes***:<br/>
+"If equal affection cannot be, Let the more loving one be me."<br/>
+
+
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
