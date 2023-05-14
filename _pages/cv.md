@@ -38,6 +38,7 @@ Work experience
 
 Honors & Awards
 =====
+  * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring, 2023)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2022)
   * 2022 ITS Minnesota Educational Scholarship - ITS Minnesota (Fall, 2022)
   * NSF Travel Award - AI workshop (Fall, 2022)
@@ -50,4 +51,5 @@ Honors & Awards
   * Dean’s List (ISU)
   * Ira B. Shinkle’s Scholarship (Fall, 2015)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
+<br/>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>
