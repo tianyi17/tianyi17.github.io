@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- * (Detailed CV available) [Curriculum Vitae Download](https://tianyi17.github.io/files/cv_tianyi_May2023.pdf)
+ * (Detailed CV available upon request)
 
 Education
 ======
