@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Tianyi Li"
 title_separator          : "-"
 name                     : &name "Tianyi Li"
-description              : &description "PhD student in transportation"
+description              : &description "PhD Candidate in transportation"
 url                      : https://tianyi17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianyi17.github.io"
@@ -91,8 +91,8 @@ analytics:
 author:
   name             : "Tianyi Li"
   avatar           : "tianyi_las.jpg"
-  bio              : "PhD student"
-  location         : "Minneapolos, MN, USA"
+  bio              : "PhD Candidate"
+  location         : "Minneapolis, MN, USA"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-6075-6411"
