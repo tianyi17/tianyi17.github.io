@@ -29,7 +29,11 @@ Research Interests
 I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry.
 
 ***Quotes***:<br/>
+"All models are wrong, but some are useful."<br/>
+
 "If equal affection cannot be, Let the more loving one be me."<br/>
+
+"Do not disfigure the soul."<br/>
 
 
 
