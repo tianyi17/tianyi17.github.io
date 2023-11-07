@@ -38,7 +38,8 @@ Work experience
 
 Honors & Awards
 =====
-  * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring, 2023)
+  * Dwight David Eisenhower Transportation Fellowship (Fall, 2023)
+  * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring & Fall, 2023)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2022)
   * 2022 ITS Minnesota Educational Scholarship - ITS Minnesota (Fall, 2022)
   * NSF Travel Award - AI workshop (Fall, 2022)
