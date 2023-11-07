@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Journal Papers
-1. **Li, T.**, Shang, M., Wang, S., & Stern, R. (2023). [Understanding and detecting malicious cyberattacks on adaptive cruise control vehicles: A machine learning approach]. Under Review
+1. **Li, T.**, Shang, M., Wang, S., & Stern, R. (2023). [Understanding and detecting malicious cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://arxiv.org/abs/2310.17091). Under Review
 2. **Li, T.**, and Stern, R. (2023). [Car-following-response based vehicle classification via deep learning](https://dl.acm.org/doi/abs/10.1145/3603369). *ACM Journal on Autonomous Transportation Systems*
 3. **Li, T.**, Klavins, J., Xu, T., Davis, G., & Stern, R. (2023). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review. Dataset available at [here](https://www.researchgate.net/publication/371488219_Naturalistic_open-source_pedestrian-driver_yielding_dataset_collected_in_Minnesota)
 4. Xu, T., Barman, S., Levin, M.W., Chen, R., & **Li, T.** (2022). [Integrating public transit signal priority into max-pressure signal control: Methodology and simulation study on a downtown network](https://www.sciencedirect.com/science/article/pii/S0968090X22000602). *Transportation Research Part C: Emerging Technologies*
