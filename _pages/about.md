@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-***"Actively seeking global Postdoctoral/Researcher positions. Let's connect to explore how my expertise can contribute to your team."***
+***"Actively seeking global Postdoctoral/Researcher positions. Let's connect to explore how my expertise can contribute to your team."***-->
 
 Hi! I'm a final year Ph.D. Candidate in Intelligent Transportation Systems at the University of Minnesota (UMN), working under the guidance of Professor [Raphael Stern](https://cse.umn.edu/cege/faculty/raphael-stern). My research interests include Transportation-Cyber-Physical systems (T-CPS), machine learning with transportation priors, machine learning and data science for modeling and control of traffic, sustainable urban mobility, and transportation-related safety. By leveraging data and computation, particularly deep learning, my research focuses on applying these tools to traditional transportation engineering challenges and developing an understanding of future city design. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me at li001915@umn.edu.
 
@@ -36,7 +36,7 @@ I have interned and conducted research at Futurewei Technologies Research Lab, t
 "Do not disfigure the soul."<br/>
 
 
-"Doing a PhD and conducting research is just a job. Doing ok jobs and being an average person is already excellent. My life has been happy; I have lovely parents and partner. I do not need to use work/career to prove myself"<br/>
+<!--"Doing a PhD and conducting research is just a job. Doing ok jobs and being an average person is already excellent. My life has been happy; I have lovely parents and partner. I do not need to use work/career to prove myself"<br/>>-->
 
 
 
