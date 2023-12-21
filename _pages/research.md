@@ -10,11 +10,12 @@ author_profile: true
 
 
 ## Journal Papers
-1. **Li, T.**, Shang, M., Wang, S., & Stern, R. (2023). [Understanding and detecting malicious cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://arxiv.org/abs/2310.17091). Under Review
-2. **Li, T.**, and Stern, R. (2023). [Car-following-response based vehicle classification via deep learning](https://dl.acm.org/doi/abs/10.1145/3603369). *ACM Journal on Autonomous Transportation Systems*
-3. **Li, T.**, Klavins, J., Xu, T., Davis, G., & Stern, R. (2023). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review. Dataset available at [here](https://www.researchgate.net/publication/371488219_Naturalistic_open-source_pedestrian-driver_yielding_dataset_collected_in_Minnesota)
-4. Xu, T., Barman, S., Levin, M.W., Chen, R., & **Li, T.** (2022). [Integrating public transit signal priority into max-pressure signal control: Methodology and simulation study on a downtown network](https://www.sciencedirect.com/science/article/pii/S0968090X22000602). *Transportation Research Part C: Emerging Technologies*
-5. **Li, T.**, Qi, G.J., & Stern, R. (2022). [Taxi Utilization Rate Maximization by Dynamic Demand Prediction: A Case Study in the City of Chicago](https://journals.sagepub.com/doi/full/10.1177/03611981211059769). *Transportation Research Record: Journal of the Transportation Research Board*. 
+1. **Li, T.**, Halatsis, A., & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality]([https://arxiv.org/abs/2310.17091](https://arxiv.org/abs/2312.07003)). Under Review. Presented at NeurIPS 2023 workshop on Machine Learning and the Physical Sciences
+2. **Li, T.**, Shang, M., Wang, S., & Stern, R. (2023). [Understanding and detecting malicious cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://arxiv.org/abs/2310.17091). Under Review
+3. **Li, T.**, and Stern, R. (2023). [Car-following-response based vehicle classification via deep learning](https://dl.acm.org/doi/abs/10.1145/3603369). *ACM Journal on Autonomous Transportation Systems*
+4. **Li, T.**, Klavins, J., Xu, T., Davis, G., & Stern, R. (2023). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review. Dataset available at [here](https://www.researchgate.net/publication/371488219_Naturalistic_open-source_pedestrian-driver_yielding_dataset_collected_in_Minnesota)
+5. Xu, T., Barman, S., Levin, M.W., Chen, R., & **Li, T.** (2022). [Integrating public transit signal priority into max-pressure signal control: Methodology and simulation study on a downtown network](https://www.sciencedirect.com/science/article/pii/S0968090X22000602). *Transportation Research Part C: Emerging Technologies*
+6. **Li, T.**, Qi, G.J., & Stern, R. (2022). [Taxi Utilization Rate Maximization by Dynamic Demand Prediction: A Case Study in the City of Chicago](https://journals.sagepub.com/doi/full/10.1177/03611981211059769). *Transportation Research Record: Journal of the Transportation Research Board*. 
 
 
 
