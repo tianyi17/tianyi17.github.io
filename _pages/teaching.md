@@ -35,7 +35,7 @@ author_profile: true
 
 ### Undergraduate Student Supervision
 * Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer & Fall 2023.
-       * **Li, T.**, **Halatsis, A.**, & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality]([https://arxiv.org/abs/2310.17091](https://arxiv.org/abs/2312.07003)).
+        * **Li, T.**, **Halatsis, A.**, & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality]([https://arxiv.org/abs/2310.17091](https://arxiv.org/abs/2312.07003)).
 
 * Benjamin Rosenblad, Civil Engineering, University of Minnesota, Fall 2022.
 	* **Li, T.**, **Rosenblad, B.**, Wang, S., Shang, M., & Stern, R. (2023). [Exploring Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicles](https://www.researchgate.net/publication/371472640_Exploring_Energy_Impacts_of_Cyberattacks_on_Adaptive_Cruise_Control_Vehicles). *The IEEE Intelligent Vehicles Symposium* (IV 2023). doi: 10.1109/IV55152.2023.10186730.
