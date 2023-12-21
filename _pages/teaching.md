@@ -15,10 +15,13 @@ author_profile: true
 ### Teaching Assistant
 
 <!-- * <a href="https://zhiyongcui.com/CEE412_CET522/"><i class='fa fa-book'></i> CEE 412 / CET 512: Transportation Data Management and Visualization </a> -->
+* CEGE 5180 (4160) Methods for intelligent transportation systems, UMN, Fall 2023 
+	* Graduate- and undergraduate-level
+	* ITS methods of system control and machine learning
 * CEGE 3201 Transportation Engineering, UMN, Spring 2021 
 	* Undergraduate-level
 	* Traffic Engineering Topic: Geometric factors, traffic flow theory
-	* ITS Topic: Autonomated vehicles and intelligent transportation systems
+	* ITS Topic: Automated vehicles and intelligent transportation systems
 
 * CEE 410 Traffic Engineering Fundamentals, UW, Spring 2019 
 	* Graduate- and undergraduate-level
@@ -31,12 +34,12 @@ author_profile: true
 	* Topic: Transportation Data Science
 
 ### Undergraduate Student Supervision
-* Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer 2023.
-	* Topic: Driving behavior modeling
+* Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer & Fall 2023.
+	**Li, T.**, **Halatsis, A.**, & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality]([https://arxiv.org/abs/2310.17091](https://arxiv.org/abs/2312.07003)).
 
 * Benjamin Rosenblad, Civil Engineering, University of Minnesota, Fall 2022.
-	* **Li, T.**, **Rosenblad, B.**, Wang, S., Shang, M., & Stern, R. (2022). [Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicle](). *The IEEE Intelligent Vehicles Symposium* (IV 2023). Accepted
-
+	* **Li, T.**, **Rosenblad, B.**, Wang, S., Shang, M., & Stern, R. (2023). [Exploring Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicles](https://www.researchgate.net/publication/371472640_Exploring_Energy_Impacts_of_Cyberattacks_on_Adaptive_Cruise_Control_Vehicles). *The IEEE Intelligent Vehicles Symposium* (IV 2023). doi: 10.1109/IV55152.2023.10186730.
+   
 * Matthew Fillippeli, Civil Engineering, University of Minnesota, Spring 2022.
 	* **Li, T.**, Shang, M., Wang, S., **Filippelli, M.**  & Stern, R. (2022, October). [Detecting Stealthy Cyberattacks on Automated Vehicles via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9922128). *In 2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), pp. 3632-3637, IEEE
 
