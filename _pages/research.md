@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Journal Papers
-1. **Li, T.**, Halatsis, A., & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality]([https://arxiv.org/abs/2310.17091](https://arxiv.org/abs/2312.07003)). Under Review. Presented at NeurIPS 2023 workshop on Machine Learning and the Physical Sciences
+1. **Li, T.**, Halatsis, A., & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality](https://arxiv.org/abs/2312.07003). Under Review. Presented at NeurIPS 2023 workshop on Machine Learning and the Physical Sciences
 2. **Li, T.**, Shang, M., Wang, S., & Stern, R. (2023). [Understanding and detecting malicious cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://arxiv.org/abs/2310.17091). Under Review
 3. **Li, T.**, and Stern, R. (2023). [Car-following-response based vehicle classification via deep learning](https://dl.acm.org/doi/abs/10.1145/3603369). *ACM Journal on Autonomous Transportation Systems*
 4. **Li, T.**, Klavins, J., Xu, T., Zafri, N., & Stern, R. (2023). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota](https://arxiv.org/abs/2312.15113). Under Review. Dataset available at [here](https://www.researchgate.net/publication/371488219_Naturalistic_open-source_pedestrian-driver_yielding_dataset_collected_in_Minnesota)
