@@ -6,7 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3E74C49H73"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-3E74C49H73');
+</script>
 {% include base_path %}
 
  * (Detailed CV available upon request)
