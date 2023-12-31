@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3E74C49H73"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3E74C49H73');
+</script>
 
 ***"Actively seeking global Postdoctoral/Researcher positions. Let's connect to explore how my expertise can contribute to your team."***
 
