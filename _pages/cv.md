@@ -15,7 +15,7 @@ Education
 * Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 2024
 * M.S. in Intelligent Transportation Systems, University of Washington, 2019
 * B.S. in Civil Engineering, Iowa State University, 2017
-* Lanzhou No.1 High School, High School Diploma
+
 
 Work experience
 ======
@@ -37,6 +37,7 @@ Work experience
 
 Honors & Awards
 =====
+  * Matthew J. Huber Award for Excellence in Transportation Research and Education (Spring, 2024)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2023)
   * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring & Fall, 2023)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2022)
