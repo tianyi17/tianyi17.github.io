@@ -29,7 +29,7 @@ Research Interests
 * Machine Learning and Data Science for Modeling and Control of Traffic
 * Traffic Estimation and Modeling
 * Sustainable Urban Mobility
-* Urban Computing
+* AI in Transportation
 * Transportation Safety
 
 
