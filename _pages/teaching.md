@@ -35,22 +35,14 @@ author_profile: true
 
 ### Undergraduate Student Supervision
 * Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer & Fall 2023.
-
-	* 	* **Li, T.**, **Halatsis, A.**, & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality](https://arxiv.org/abs/2312.07003).
   	  
 * Benjamin Rosenblad, Civil Engineering, University of Minnesota, Fall 2022.
-	* **Li, T.**, **Rosenblad, B.**, Wang, S., Shang, M., & Stern, R. (2023). [Exploring Energy Impacts of Cyberattacks on Adaptive Cruise Control Vehicles](https://www.researchgate.net/publication/371472640_Exploring_Energy_Impacts_of_Cyberattacks_on_Adaptive_Cruise_Control_Vehicles). *The IEEE Intelligent Vehicles Symposium* (IV 2023). doi: 10.1109/IV55152.2023.10186730.
-   
+  
 * Matthew Fillippeli, Civil Engineering, University of Minnesota, Spring 2022.
-	* **Li, T.**, Shang, M., Wang, S., **Filippelli, M.**  & Stern, R. (2022, October). [Detecting Stealthy Cyberattacks on Automated Vehicles via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9922128). *In 2022 IEEE 25th International Conference on Intelligent Transportation Systems* (ITSC), pp. 3632-3637, IEEE
 
 * Joshua Klavins, Civil Engineering, University of Minnesota, Spring 2021 - Summer 2022.
-	* **Li, T.**, **Klavins, J.**, Xu, T., Davis, G., & Stern, R. (2022). [Understanding driver-pedestrian interactions to predict driver yielding: field experiments in Minnesota]. Under Review
 
 * John Cullom, Computer Science, University of Minnesota, Fall 2020 - Spring 2021.
-	* **Li, T.**, **Cullom, J.**, & Stern, R. (2021, May). [Leveraging video data to better understand driver-pedestrian interactions in a smart city environment](https://dl.acm.org/doi/abs/10.1145/3459609.3460524). *In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems* (DI-CPS), pp. 6-11, ACM
-	
-
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
