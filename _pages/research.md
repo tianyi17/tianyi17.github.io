@@ -14,73 +14,19 @@ author_profile: true
   gtag('config', 'G-3E74C49H73');
 </script>
 <!-- Currently under construction-->
-====
 
-<style>
-  /* Add your CSS styling here */
-  .research-section {
-    background-color: #1d1f21;
-    color: #ffffff;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
 
-  .research-section h2 {
-    font-size: 2em;
-    margin-bottom: 10px;
-  }
+## Cyber-physical Cooperation
+In this rapidly evolving technological age, my passion lies in enhancing the safety and sustainability of Transportation Cyber-Physical Systems (T-CPS). Companies at the forefront of transportation are now technologically driven. I envision a harmonious blend where research interlinks transportation with computation, deploying computer science techniques to navigate challenges indigenous to traditional transportation engineering.
 
-  .research-section p {
-    font-size: 1.1em;
-    line-height: 1.6;
-  }
+## Modeling and Learning Driving Behavior
+### Motivation
+The physical traffic environment, 
+### Research Summary
+To 
 
-  .research-section img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 10px 0;
-  }
+![Traffic Environment](/path/to/your/image.png)
 
-  .research-summary {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-
-  .research-summary div {
-    flex: 1 1 45%;
-    background-color: #282a2e;
-    padding: 20px;
-    border-radius: 8px;
-  }
-</style>
-
-<div class="research-section">
-  <h2>Transportation Cyber-Physical Systems (T-CPS)</h2>
-  <p>
-    In this rapidly evolving technological age, my passion lies in enhancing the safety and sustainability of Transportation Cyber-Physical Systems (T-CPS). Companies at the forefront of transportation are now technologically driven. I envision a harmonious blend where research interlinks transportation with computation, deploying computer science techniques to navigate challenges indigenous to traditional transportation engineering.
-  </p>
-</div>
-
-<div class="research-section">
-  <h2>Theme 1: Modeling and Learning Driving Behavior</h2>
-  <div class="research-summary">
-    <div>
-      <h3>Motivation</h3>
-      <p>
-        My research focuses on understanding microscopic driving behaviors, using deep learning to classify drivers and ACC vehicles based on car-following behaviors. This work forms the foundation for understanding the intricacies of transportation systems and predicting their dynamics.
-      </p>
-    </div>
-    <div>
-      <h3>Research Summary</h3>
-      <p>
-        I have developed new methods for classifying ACC vehicles and AVs, enhancing traffic dynamics analysis. One strategy involves model-based calibration for vehicle trajectory analysis, and the other uses deep learning classifiers for quick vehicle type identification from short trajectory sequences. <a href="#">(Learn more)</a>
-      </p>
-    </div>
-  </div>
-<!--   <img src="/path/to/your/image.png" alt="Traffic Environment Perception" /> -->
-</div>
 
 ## Journal Papers
 1. **Li, T.**, Halatsis, A., & Stern, R. (2023). [RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality](https://arxiv.org/abs/2312.07003). Under Review. Presented at NeurIPS 2023 workshop on Machine Learning and the Physical Sciences
