@@ -54,16 +54,6 @@ My research will delve into the interaction between physical infrastructure, dig
 
 
 
-## References
-1. [Li, T., & Stern, R. (2021). Classification of adaptive cruise control vehicle type based on car following trajectories. In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 1547-1552, IEEE.](https://ieeexplore.ieee.org/abstract/document/9564462)
-2. [Li, T., & Stern, R. (2023). Car-following-response based vehicle classification via deep learning. ACM Journal on Autonomous Transportation Systems.](https://dl.acm.org/doi/abs/10.1145/3603369)
-3. [Stern, R. et al. (2017). Dissipation of stop-and-go waves via control of autonomous vehicles: Field experiments. Transportation Research Part C: Emerging Technologies.](https://arxiv.org/abs/2312.07003)
-4. [Li, T, Halatsis, A., & Stern, R. (2023). RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality. Presented at NeurIPS 2023 workshop on Machine Learning and the Physical Sciences.](https://arxiv.org/abs/2312.07003)
-5. [Li, T., Cullom, J., & Stern, R. (2021). Leveraging video data to better understand driver-pedestrian interactions in a smart city environment. In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems, pp. 6-11, ACM.](https://dl.acm.org/doi/abs/10.1145/3459609.3460524)
-6. [Li, T., Klavins, J., Xu, T., Zafri, N., & Stern, R. (2023). Understanding driver-pedestrian interactions to predict driver yielding: Field experiments in Minnesota. Dataset available at ResearchGate.](https://arxiv.org/abs/2312.15113)
-7. [Li, T., Qi, G.J., & Stern, R. (2022). Taxi Utilization Rate Maximization by Dynamic Demand Prediction: A Case Study in the City of Chicago. Transportation Research Record: Journal of the Transportation Research Board.](https://journals.sagepub.com/doi/full/10.1177/03611981211059769)
-8. [Li, T., Iogansen, X., & Stern, R. (2023). Assessing the Impact of Disruptive Events on Urban Mobility: A Case Study of Chicago Taxis during COVID-19. In Proceedings of Cyber-Physical Systems and Internet of Things Week 2023, pp. 141-145, ACM.](https://dl.acm.org/doi/abs/10.1145/3576914.3587708)
-9. [Li, T., Wu, X., Ban, X., & Wang, Y.(2020). "Centralized” Taxi Services in Big Metropolitan Areas: Evidenced by Chicago Data. In International Conference on Transportation and Development 2020, pp. 287-299, ASCE.](https://ascelibrary.org/doi/abs/10.1061/9780784483169.024)
 
 
 <br/>
