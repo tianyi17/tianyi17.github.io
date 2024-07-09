@@ -37,6 +37,7 @@ Work experience
 
 Honors & Awards
 =====
+  * Conference Grant - The Council of Graduate Students (Summer, 2024)
   * Matthew J. Huber Award for Excellence in Transportation Research and Education (Spring, 2024)
   * Dwight David Eisenhower Transportation Fellowship (Fall, 2023)
   * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring & Fall, 2023)
