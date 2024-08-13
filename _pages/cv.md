@@ -39,7 +39,7 @@ Honors & Awards
 =====
   * IEEE ITSS 2024 conference support program for ITSC2024 (Summer, 2024)
   * Conference Grant - The Council of Graduate Students (Summer, 2024)
-  * Matthew J. Huber Award for Excellence in Transportation Research and Education (Spring, 2024)
+  * Matthew J. Huber Award for Excellence in Transportation Research and Education (Spring, 2024,  [UMN News](https://cse.umn.edu/cege/news/matthew-j-huber-student-award))
   * Dwight David Eisenhower Transportation Fellowship (2021,2022, 2023)
   * Department of Civil, Environmental, and Geo- Engineering Travel Award (Spring & Fall, 2023)
   * 2022 ITS Minnesota Educational Scholarship - ITS Minnesota (Fall, 2022)
