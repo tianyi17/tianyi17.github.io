@@ -18,14 +18,13 @@ redirect_from:
   gtag('config', 'G-3E74C49H73');
 </script>
 
-Hi! I'm a final year Ph.D. Candidate in Intelligent Transportation Systems at the [University of Minnesota (UMN)](https://cse.umn.edu/cege/tianyi-li), working under the guidance of Professor [Raphael Stern](https://cse.umn.edu/cege/stern-raphael). My research interests include Transportation-Cyber-Physical systems (T-CPS), machine learning with transportation priors, modeling and control of traffic, sustainable urban mobility, and transportation-related safety. By leveraging data and computation, particularly deep learning, my research focuses on applying these tools to traditional transportation engineering challenges and developing an understanding of future city design. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me at tianyi.li.1@slu.edu.
+Hi! I'm a tenure-track Assistant Professor in Intelligent Transportation Systems at [Saint Louis University (SLU)](https://www.slu.edu/). My research interests span Transportation-Cyber-Physical Systems (T-CPS), machine learning with transportation priors, traffic modeling and control, sustainable urban mobility, and transportation-related safety. By leveraging data and computational methods, my research aims to develop and apply advanced technologies to address traditional transportation engineering challenges and enhance the understanding of traffic information for future city design. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me at tianyi.li.1@slu.edu.
 
-Before attending UMN, I earned my bachelor's degree in Civil Engineering from Iowa State University (ISU), where I was advised by Professor [Sri Sritharan](https://www.engineering.iastate.edu/people/profile/sri/) and Professor [Kejin Wang](https://www.engineering.iastate.edu/people/profile/kejinw/) for my undergraduate theses. Additionally, I also hold one master's degree from the University of Washington (UW), advised by Professor [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
+Before joining [Saint Louis University (SLU)](https://www.slu.edu/), I completed my PhD at the [University of Minnesota (UMN)](https://cse.umn.edu/cege), working under the guidance of Professor [Raphael Stern](https://cse.umn.edu/cege/stern-raphael). I earned my bachelor's degree in Civil Engineering from Iowa State University (ISU), where I was advised by Professor [Sri Sritharan](https://www.engineering.iastate.edu/people/profile/sri/) and Professor [Kejin Wang](https://www.engineering.iastate.edu/people/profile/kejinw/) for my undergraduate thesis. Additionally, I hold one master's degree from the University of Washington (UW), where I was advised by Professor [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
 
 Research Interests
 ---
-* Transportation-Cyber-Physical systems (T-CPS)
-* Machine Learning with Transportation Priors
+* Transportation-Cyber-Physical Systems (T-CPS)
 * Machine Learning and Data Science for Modeling and Control of Traffic
 * Traffic Estimation and Modeling
 * Sustainable Urban Mobility
@@ -33,7 +32,7 @@ Research Interests
 * Transportation Safety
 
 
-I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry.
+I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry and its challenges.
 
 ***Quotes***:<br/>
 "All models are wrong, but some are useful."<br/>
