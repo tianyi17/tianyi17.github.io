@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-3E74C49H73');
 </script>
 
-I am actively seeking PhD students in Intelligent Transportation Systems. Research areas include, but are not limited to, artificial intelligence in transportation, machine learning with transportation domain knowledge, traffic modeling and control, traffic flow theory, sustainable urban transportation, and traffic safety. 
+I am actively seeking PhD students in Intelligent Transportation Systems. Research areas include, but are not limited to, traffic modeling and control, automated and connected vehicles, the application of artificial intelligence in transportation, urban mobility solutions, and traffic safety. 
 
 Hi! I'm a tenure-track Assistant Professor in Intelligent Transportation Systems at [Saint Louis University (SLU)](https://www.slu.edu/). My research interests span Transportation-Cyber-Physical Systems (T-CPS), machine learning with transportation priors, traffic modeling and control, sustainable urban mobility, and transportation-related safety. By leveraging data and computational methods, my research aims to develop and apply advanced technologies to address traditional transportation engineering challenges and enhance the understanding of traffic information for future city design. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me at tianyitristan At gmail.com.
 
@@ -28,11 +28,11 @@ Before joining [Saint Louis University (SLU)](https://www.slu.edu/), I completed
 Research Interests
 ---
 * Transportation-Cyber-Physical Systems (T-CPS)
-* Machine Learning and Data Science for Modeling and Control of Traffic
-* Traffic Estimation and Modeling
-* Sustainable Urban Mobility
+* Automated and connected vehicles
+* Traffic modeling and control
 * AI in Transportation
-* Transportation Safety
+* Urban mobility solutions
+* Traffic safety and sustainable transportation
 
 
 I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry and its challenges.
