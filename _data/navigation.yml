@@ -1,5 +1,10 @@
 # main links links
 main:
+
+       
+  - title: "Lab"
+    url: /lab/
+    
   - title: "Research"
     url: /research/
 #   - title: "Talks"
@@ -9,9 +14,7 @@ main:
     
 #   - title: "Misc."
 #     url: /portfolio/
-       
-  - title: "Lab"
-    url: /lab/
+
     
   - title: "CV"
     url: /cv/
