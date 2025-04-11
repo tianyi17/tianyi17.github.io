@@ -2,18 +2,20 @@
 main:
   - title: "Research"
     url: /research/
-
 #   - title: "Talks"
 #     url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
 #   - title: "Misc."
 #     url: /portfolio/
+       
+  - title: "Lab"
+    url: /lab/
     
   - title: "CV"
     url: /cv/
+
     
   - title: "Miscellaneous"
     url: /misc/
