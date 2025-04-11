@@ -11,38 +11,38 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+### Courses Taught (Primary Instructor)
+
+* **CVNG 4930 / 5930 Modern Methods for Intelligent Transportation Systems**  
+  *Instructor – Saint Louis University, Spring 2025*  
+  Graduate / senior‑undergrad elective covering AI‑enabled traffic control, connected‑vehicle data analytics, and AI in ITS.
+
+* **CVNG 2020 GIS & Surveying in Civil Engineering Lab**  
+  *Instructor – Saint Louis University, Fall 2024*  
+  Hands‑on lab introducing total stations and ArcGIS Pro workflows.
 
 ### Teaching Assistant
 
 <!-- * <a href="https://zhiyongcui.com/CEE412_CET522/"><i class='fa fa-book'></i> CEE 412 / CET 512: Transportation Data Management and Visualization </a> -->
-* CEGE 5180 (4160) Methods for intelligent transportation systems, UMN, Fall 2023 
-	* Graduate- and undergraduate-level
-	* ITS methods of system control and machine learning
-* CEGE 3201 Transportation Engineering, UMN, Spring 2021 
-	* Undergraduate-level
-	* Traffic Engineering Topic: Geometric factors, traffic flow theory
-	* ITS Topic: Automated vehicles and intelligent transportation systems
+* **CEGE 5180 (4160) Methods for Intelligent Transportation Systems** – University of Minnesota, Fall 2023  
+  Graduate & upper‑division undergraduate course on ITS system control, traffic sensing, and machine‑learning applications.
 
-* CEE 410 Traffic Engineering Fundamentals, UW, Spring 2019 
-	* Graduate- and undergraduate-level
-	* Topic: Concepts of HCM calculation, traffic flow theory, transportation engineering and statistics
+* **CEGE 3201 Introduction to Transportation Engineering** – University of Minnesota, Spring 2021  
+  Core undergraduate course (geometrics, traffic‑flow theory, signal timing, automated‑vehicle impacts).
+
+* **CEE 410 Traffic Engineering Fundamentals** – University of Washington, Winter 2019  
+  Assisted with HCM capacity analysis, traffic‑flow theory modules, and statistics labs.
 
 
-### Guest Lecturer
+### Guest Lectures
 
-* Engineering Discovery Days, University of Washington, Spring 2019
-	* Topic: Transportation Data Science
+* **GRAD 5105 – Speaking About Being an International TA**  
+  University of Minnesota, Fall 2023
 
-### Undergraduate Student Supervision
-* Alexander Halatsis, Aerospace Engineering, University of Minnesota, Summer & Fall 2023.
-  	  
-* Benjamin Rosenblad, Civil Engineering, University of Minnesota, Fall 2022.
-  
-* Matthew Fillippeli, Civil Engineering, University of Minnesota, Spring 2022.
+* **Engineering Discovery Days** – University of Washington, Spring 2019  
+  Outreach talk: *“Transportation Data Science for Future Engineers.”*
 
-* Joshua Klavins, Civil Engineering, University of Minnesota, Spring 2021 - Summer 2022.
 
-* John Cullom, Computer Science, University of Minnesota, Fall 2020 - Spring 2021.
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
