@@ -21,9 +21,9 @@ Welcome to our research group! We conduct research on Transportation-Cyber-Physi
 
 ### Undergraduate Research Assistants
 * Kate Embry
-  * Major: Civil Engineeing
+  * Major: Civil Engineering
 * Ayana Asanova
-  * Major: Civil Engineeing
+  * Major: Civil Engineering
 * Dhyana Patel
   * Major: Data Science
 * Samannita Halder
