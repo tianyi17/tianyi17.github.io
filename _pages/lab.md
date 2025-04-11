@@ -5,8 +5,6 @@ permalink: /lab/
 author_profile: true
 ---
 
-# Li Lab for Intelligent Transportation Systems
-
 Welcome to our research group! We conduct research on Transportation-Cyber-Physical Systems (T-CPS), AI with transportation priors, traffic modeling and control, sustainable urban mobility, and transportation-related safety.
 
 ## Current Students
