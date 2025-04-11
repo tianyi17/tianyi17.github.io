@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lab"
+title: "Li Lab for Intelligent Transportation Systems"
 permalink: /lab/
 author_profile: true
 ---
@@ -39,5 +39,3 @@ Interested in joining our research team? We are always looking for motivated stu
 
 Please [contact me](mailto:tianyli.ai@gmail.com) if you're interested in discussing potential opportunities.
 
-<br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
