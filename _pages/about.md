@@ -39,9 +39,6 @@ Research Interests
 - Traffic safety and sustainable transportation
 
 
-I have interned and conducted research at Futurewei Technologies Research Lab, the Washington State Department of Transportation, and China Railway First Group. These experiences have provided me with valuable insights into the transportation industry and its challenges.
-
-
 I am actively looking for students, particularly Master’s and undergraduate students already at SLU. Interested students are welcome to contact me directly for a chat.
 
 ***Quotes***:<br/>
