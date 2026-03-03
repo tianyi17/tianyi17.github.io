@@ -9,14 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3E74C49H73"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-3E74C49H73');
-</script>
 
 **Last updated in April 2025.** Please note that I am not frequently updating my site unless there is a major research milestone.
 
