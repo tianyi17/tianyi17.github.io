@@ -34,6 +34,7 @@ Research Interests
 
 I am actively looking for students, particularly Master’s and undergraduate students already at SLU. Interested students are welcome to contact me directly for a chat.
 
+<!--
 ***Quotes***:<br/>
 "All models are wrong, but some are useful."<br/>
 
@@ -41,8 +42,9 @@ I am actively looking for students, particularly Master’s and undergraduate st
 
 "Do not disfigure the soul."<br/>
 
+"Doing a PhD and conducting research is just a job. Doing ok jobs and being an average person is already excellent. My life has been happy; I have lovely parents and partner. I do not need to use work/career to prove myself"<br/>
+-->
 
-<!--"Doing a PhD and conducting research is just a job. Doing ok jobs and being an average person is already excellent. My life has been happy; I have lovely parents and partner. I do not need to use work/career to prove myself"<br/>>-->
 
 
 
