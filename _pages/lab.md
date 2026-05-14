@@ -5,35 +5,36 @@ permalink: /lab/
 author_profile: true
 ---
 
-Welcome to our research group! We conduct research on Transportation-Cyber-Physical Systems (T-CPS), AI with transportation priors, traffic modeling and control, sustainable urban mobility, and transportation-related safety.
+Welcome to the **Li Lab for Intelligent Transportation Systems** at Saint Louis University.
+
+Our group develops data-driven and AI-powered methods for future transportation systems, with a focus on transportation cyber-physical systems, connected and automated vehicles, traffic flow modeling and control, and trustworthy AI for mobility.
 
 ## Current Students
 
-### PhD Students
-* Yuhui Liu
-  * Research focus: Modeling and control of automated vehicles
+### Ph.D. Students
 
-### Master Students
-* Jean Paul Bizimana
-  * Research focus: LLM in transportation
+* **Yuhui Liu**  
+  Modeling and control of automated vehicles
+
+* **Shuxia Pang**  
+  Large language models for traffic system modeling
+
+### Master's Students
+
+* **Jean Paul Bizimana**
 
 ### Undergraduate Research Assistants
-* Kate Embry
-  * Major: Civil Engineering
-* Ayana Asanova
-  * Major: Civil Engineering
-* Dhyana Patel
-  * Major: Data Science
-* Samannita Halder
-  * Major: Computer Engineering
+
+* **Kate Embry** — Civil Engineering
+* **Ayana Asanova** — Civil Engineering
+* **Dhyana Patel** — Data Science
+* **Samannita Halder** — Computer Engineering
 
 ## Join Our Lab
-Interested in joining our research team? We are always looking for motivated students with interests in:
-* Transportation-Cyber-Physical Systems (T-CPS)
-* Automated and connected vehicles
-* Traffic modeling and control
-* AI in Transportation
-* Urban mobility solutions
 
-Please [contact me](mailto:tianyli.ai@gmail.com) if you're interested in discussing potential opportunities.
+I welcome motivated students interested in intelligent transportation systems, AI for transportation, connected and automated vehicles, and traffic modeling and control.
+
+Interested students are welcome to [contact me](mailto:tianyili.ai@gmail.com).
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
 
