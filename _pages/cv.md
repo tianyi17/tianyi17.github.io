@@ -8,33 +8,43 @@ redirect_from:
 ---
 
 
- * (Detailed CV available upon request)
+*A detailed CV is available upon request.*
+
+Appointments
+======
+
+* Assistant Professor of Transportation Engineering, Saint Louis University, 2024–present
 
 Education
 ======
-* Ph.D. in Intelligent Transportation Systems, University of Minnesota, 2020 - 2024
-* M.S. in Intelligent Transportation Systems, University of Washington, 2019
+
+* Ph.D. in Transportation Engineering, University of Minnesota, 2024
+* M.S. in Transportation Engineering, University of Washington, 2019
 * B.S. in Civil Engineering, Iowa State University, 2017
 
-
-Work experience
+Selected Experience
 ======
-* Summer 2020: Artificial Intelligence (Smart City) Research Intern
-  * Futurewei Technologies Research Lab (Bellevue, WA)
-  * Worked on applied deep Learning in transportation
-  * Supervisor: Dr. Guo-Jun Qi
 
-* Summer 2019: Research Intern
-  * Washington State Department of Transportation
-  * Collected and monitored daily tolling transaction data from the facility reports (e.g., I-405, SR520, and SR167).
-      Conducted performance evaluations and supported operational improvement projects
-  * Researched on tolling facilities, and congestion pricing with UW DSSG (Data Science for Social Good) teams
-  * Supervisor: Sara Myers
+* Research Intern, Futurewei Technologies Research Lab, Bellevue, WA, Summer 2020  
+  Worked on applied artificial intelligence and smart city applications in transportation.
 
-* Summer 2017: Internship
-  * China Railway First Group
+* Research Intern, Washington State Department of Transportation, Summer 2019  
+  Supported tolling data analysis, performance evaluation, and congestion-pricing research.
 
+* Intern, China Railway First Group, Summer 2017
 
+Selected Honors and Awards
+=====
+
+* Matthew J. Huber Award for Excellence in Transportation Research and Education, University of Minnesota, 2024
+* IEEE ITSS Conference Support Program for ITSC 2024, 2024
+* Dwight David Eisenhower Transportation Fellowship, Federal Highway Administration, 2021, 2022, 2023
+* Hsiao Shaw-Lundquist Fellowship, University of Minnesota, 2021
+* ITS Minnesota Educational Scholarship, 2022
+* Mt. Rainier Scholarship, University of Washington, 2018
+* Midwest Transportation Center Undergraduate Research Award, 2016
+
+<!--
 Honors & Awards
 =====
   * IEEE ITSS 2024 conference support program for ITSC 2024 (Summer, 2024)
@@ -51,6 +61,6 @@ Honors & Awards
   * Dean Farnsworth Scholarship in Civil Engineering (Spring, 2016)
   * Dean’s List (ISU)
   * Ira B. Shinkle’s Scholarship (Fall, 2015)
-
+-->
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
