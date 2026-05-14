@@ -11,36 +11,27 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-### Courses Taught (Primary Instructor)
 
-* **CVNG 4930 / 5930 Modern Methods for Intelligent Transportation Systems**  
-  *Instructor – Saint Louis University, Spring 2025*  
-  Graduate / senior‑undergrad elective covering AI‑enabled traffic control, connected‑vehicle data analytics, and AI in ITS.
+### Courses
 
-* **CVNG 2020 GIS & Surveying in Civil Engineering Lab**  
-  *Instructor – Saint Louis University, Fall 2024*  
-  Hands‑on lab introducing total stations and ArcGIS Pro workflows.
+* **CVNG 4930 / 5930: Modern Methods for Intelligent Transportation Systems**  
+  Saint Louis University, Spring 2025 and Spring 2026 
+  Graduate and senior-undergraduate elective on AI-enabled traffic control, connected-vehicle data analytics, and intelligent transportation systems.
 
-### Teaching Assistant
+* **CVNG 2020: GIS & Surveying in Civil Engineering Lab**  
+  Saint Louis University, Fall 2024 and Fall 2025
+  Hands-on laboratory course covering surveying fundamentals, total stations, and ArcGIS Pro workflows.
 
-<!-- * <a href="https://zhiyongcui.com/CEE412_CET522/"><i class='fa fa-book'></i> CEE 412 / CET 512: Transportation Data Management and Visualization </a> -->
-* **CEGE 5180 (4160) Methods for Intelligent Transportation Systems** – University of Minnesota, Fall 2023  
-  Graduate & upper‑division undergraduate course on ITS system control, traffic sensing, and machine‑learning applications.
+### Selected Previous Teaching
 
-* **CEGE 3201 Introduction to Transportation Engineering** – University of Minnesota, Spring 2021  
-  Core undergraduate course (geometrics, traffic‑flow theory, signal timing, automated‑vehicle impacts).
+* **CEGE 5180 / 4160: Methods for Intelligent Transportation Systems**  
+  Teaching Assistant, University of Minnesota, Fall 2023
 
-* **CEE 410 Traffic Engineering Fundamentals** – University of Washington, Winter 2019  
-  Assisted with HCM capacity analysis, traffic‑flow theory modules, and statistics labs.
+* **CEGE 3201: Introduction to Transportation Engineering**  
+  Teaching Assistant, University of Minnesota, Spring 2021
 
-
-### Guest Lectures
-
-* **GRAD 5105 – Speaking About Being an International TA**  
-  University of Minnesota, Fall 2023
-
-* **Engineering Discovery Days** – University of Washington, Spring 2019  
-  Outreach talk: *“Transportation Data Science for Future Engineers.”*
+* **CEE 410: Traffic Engineering Fundamentals**  
+  Teaching Assistant, University of Washington, Winter 2019
 
 
 
