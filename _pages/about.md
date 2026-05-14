@@ -8,46 +8,17 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-<!-- Google tag (gtag.js) -->
 
+**Last updated: May 2026.**
 
-**Last updated in April 2025.** Please note that I am not frequently updating my site unless there is a major research milestone.
+Hi, I am **Tianyi Li**, an Assistant Professor of Transportation Engineering at [Saint Louis University](https://www.slu.edu/science-and-engineering/academics/civil-engineering/faculty/index.php).
 
-Hi! I build **AI-powered traffic-control systems** as a tenure-track Assistant Professor in Intelligent Transportation Systems at [Saint Louis University (SLU)](https://www.slu.edu/science-and-engineering/academics/civil-engineering/faculty/index.php).
+I develop **AI-powered traffic systems**, with a focus on transportation cyber-physical systems, connected and automated vehicles, and traffic flow modeling and control. My research combines traffic flow theory, control, and artificial intelligence to improve the safety, efficiency, stability, and trustworthiness of future mobility systems.
 
-My research interests span Transportation-Cyber-Physical Systems (T-CPS), machine learning with transportation priors, traffic modeling and control, sustainable urban mobility, and transportation-related safety. By leveraging data and computational methods, my research aims to develop and apply advanced technologies to address traditional transportation engineering challenges and enhance the understanding of traffic information for future city design. You can reach me at **tianyili[dot]ai[at]gmail[dot]com**. I am always open to discussions about potential collaborations or research opportunities.
+Before joining SLU, I received my Ph.D from the [University of Minnesota](https://cse.umn.edu/cege), advised by Prof. [Raphael Stern](https://cse.umn.edu/cege/stern-raphael). I also hold an M.S. from the [University of Washington](https://www.ce.washington.edu/), advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang), and a B.S. from [Iowa State University](https://www.iastate.edu/).
 
-
-Before joining [Saint Louis University (SLU)](https://www.slu.edu/), I completed my PhD at the [University of Minnesota (UMN)](https://cse.umn.edu/cege), working under the guidance of Professor [Raphael Stern](https://cse.umn.edu/cege/stern-raphael). I earned my bachelor's degree in Civil Engineering from Iowa State University (ISU), where I was advised by Professor [Sri Sritharan](https://www.engineering.iastate.edu/people/profile/sri/) and Professor [Kejin Wang](https://www.engineering.iastate.edu/people/profile/kejinw/) for my undergraduate thesis. Additionally, I hold one master's degree from the University of Washington (UW), where I was advised by Professor [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
-
-
- 
-Research Interests
----
-- Transportation-Cyber-Physical Systems (T-CPS)
-- Automated and connected vehicles
-- Traffic modeling and control
-- AI in Transportation
-- Urban mobility solutions
-- Traffic safety and sustainable transportation
-
-
-I am actively looking for students, particularly Master’s and undergraduate students already at SLU. Interested students are welcome to contact me directly for a chat.
+You can reach me at **tianyili[dot]ai[at]gmail[dot]com**.
 
 <!--
-***Quotes***:<br/>
-"All models are wrong, but some are useful."<br/>
-
-"If equal affection cannot be, Let the more loving one be me."<br/>
-
-"Do not disfigure the soul."<br/>
-
-"Doing a PhD and conducting research is just a job. Doing ok jobs and being an average person is already excellent. My life has been happy; I have lovely parents and partner. I do not need to use work/career to prove myself"<br/>
--->
-
-
-
-
-
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
+-->
