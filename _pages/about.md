@@ -19,6 +19,5 @@ Before joining SLU, I received my Ph.D from the [University of Minnesota](https:
 
 You can reach me at **tianyili[dot]ai[at]gmail[dot]com**.
 
-<!--
+<br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mOLq8ml6_8GeJFfRaOGlKt1qOHfyBzpQU0YGiQEZeOA'></script>
--->
