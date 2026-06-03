@@ -11,7 +11,7 @@ redirect_from:
 
 **Last updated: May 2026.**
 
-Hi, I am **Tianyi Li**, an Assistant Professor of Transportation Engineering at [Saint Louis University](https://www.slu.edu/science-and-engineering/academics/civil-engineering/faculty/index.php).
+Hi, I am **Tianyi Li**, an Assistant Professor of Transportation Engineering at [Saint Louis University](https://www.slu.edu/science-and-engineering/academics/civil-engineering/faculty/li-tianyi.php).
 
 I develop **AI-powered traffic systems**, with a focus on transportation cyber-physical systems, connected and automated vehicles, and traffic flow modeling and control. My research combines traffic flow theory, control, and artificial intelligence to improve the safety, efficiency, stability, and trustworthiness of future mobility systems.
 
