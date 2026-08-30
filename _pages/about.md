@@ -20,4 +20,4 @@ Before joining SLU, I received my Ph.D from the [University of Minnesota](https:
 You can reach me at **tianyili[dot]ai[at]gmail[dot]com**.
 
 <br/>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=400&t=tt&d=b9sRFvKEslaLyMw744Eb4EbvGZCCR5GWtnUS1V4LYGg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=tt&d=b9sRFvKEslaLyMw744Eb4EbvGZCCR5GWtnUS1V4LYGg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
